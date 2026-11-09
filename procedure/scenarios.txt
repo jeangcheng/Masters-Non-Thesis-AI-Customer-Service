@@ -1,0 +1,14 @@
+Scenario 1
+You ordered a pair of headphones online five days ago. The estimated delivery date was yesterday, but your package has not arrived, and the tracking page has not updated in two days.
+You need the headphones for a trip tomorrow.
+
+Scenario 2
+You subscribe to a streaming service that costs $12.99 per month. When checking your bank statement, you notice that you were charged $25.98 this month, which is double the regular amount. You do not remember authorizing an additional subscription or making any changes to your account.
+
+Scenario 3
+You recently purchased a $150 wireless speaker as a birthday gift for a family member. When you opened the package, you discovered that the speaker would not turn on, even after charging it overnight. You contacted customer service once before and were told to try charging it again, but the problem remains unresolved.
+You are frustrated because you spent a significant amount of money on a product that does not work, and you feel that your previous concern was not taken seriously.
+
+Scenario 4
+You are trying to log in to an online account to complete an important task, but the website repeatedly rejects your password. You have already tried resetting your password, but you still cannot access the account. You are unsure whether the problem is related to your password, account security, or a technical issue.
+You want to regain access as quickly as possible.
